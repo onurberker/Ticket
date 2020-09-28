@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\vize\bin\Debug\vize.exe.config
+C:\Users\HP\Desktop\vize\bin\Debug\vize.exe
+C:\Users\HP\Desktop\vize\bin\Debug\vize.pdb
+C:\Users\HP\Desktop\vize\obj\Debug\vize.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\vize\obj\Debug\vize.exe
+C:\Users\HP\Desktop\vize\obj\Debug\vize.pdb
+C:\Users\Lenovo\Desktop\MeteReis\vize\vize\bin\Debug\vize.exe.config
+C:\Users\Lenovo\Desktop\MeteReis\vize\vize\bin\Debug\vize.exe
+C:\Users\Lenovo\Desktop\MeteReis\vize\vize\bin\Debug\vize.pdb
+C:\Users\Lenovo\Desktop\MeteReis\vize\vize\obj\Debug\vize.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MeteReis\vize\vize\obj\Debug\vize.exe
+C:\Users\Lenovo\Desktop\MeteReis\vize\vize\obj\Debug\vize.pdb
